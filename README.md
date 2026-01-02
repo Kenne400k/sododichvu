@@ -237,29 +237,7 @@ sequenceDiagram
 
 ```
 📁 AI Tools Server KingCong
-│
-├── 💳 Mua Credits
-│   ├── Gói 1: 5$ → 1,000,000 credits
-│   ├── Gói 2-7: ...
-│   └── Gói 8: 40$ → 10,800,000 credits
-│
-├── 🔊 Chuyển văn bản thành giọng nói
-│   ├── Nhập văn bản
-│   ├── Chọn giọng đọc
-│   ├── Cài đặt (Tốc độ, Cao độ, v.v.)
-│   └── Nút Tạo
-│
-└── 🎙️ Nhân bản giọng nói
-    ├── Tải lên mẫu giọng
-    ├── Nhập văn bản
-    ├── Cài đặt nhân bản
-    └── Nút Tạo
-
-Thanh trạng thái (Toàn cục):
-├── 📊 Số dư Credits: XXX,XXX
-├── 🟢 Trạng thái AI33: [ElevenLabs BẬT/TẮT] [Minimax BẬT/TẮT]
-├── 🟢 Trạng thái AI84: [ElevenLabs BẬT/TẮT] [Minimax BẬT/TẮT]
-└── ⚠️ Thông báo bảo trì
+như FE server 1 server 2
 ```
 
 ## 7. Cấu trúc Cơ sở dữ liệu
