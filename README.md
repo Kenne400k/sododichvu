@@ -560,15 +560,3 @@ Luồng xử lý:
 ✅ **Cân bằng tải**: 70-30 có thể điều chỉnh theo nhu cầu  
 ✅ **Tiết kiệm chi phí**: Tự quản lý credits, không phụ thuộc AI33/AI84  
 ✅ **Dễ mở rộng**: Thêm server AI mới chỉ cần thêm cấu hình  
-
-### Lưu ý khi vận hành:
-⚠️ **Monitor thường xuyên**: Theo dõi rate limit, credits, lỗi  
-⚠️ **Backup API key**: Luôn có key dự phòng khi key chính lỗi  
-⚠️ **Log đầy đủ**: Ghi log mọi giao dịch để troubleshoot  
-⚠️ **Thông báo rõ ràng**: User cần biết dịch vụ nào đang bật/tắt  
-
-### Câu hỏi cần làm rõ thêm:
-❓ Giá cụ thể cho từng dịch vụ (AI33 EL, AI33 MX, AI84 EL, AI84 MX)?  
-❓ Có giới hạn số lượng task tối đa/phút không?  
-❓ Xử lý như thế nào khi cả 2 server đều bị lỗi?  
-❓ Có cần refund credits khi task thất bại không?
